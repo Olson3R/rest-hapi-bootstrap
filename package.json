@@ -1,0 +1,29 @@
+{
+  "name": "rest-hapi-bootstrap",
+  "version": "1.0.0",
+  "description": "Bootstrap hapi rest api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Olson3R/rest-hapi-bootstrap.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "hapi",
+    "rest"
+  ],
+  "author": "Scott Olson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Olson3R/rest-hapi-bootstrap/issues"
+  },
+  "homepage": "https://github.com/Olson3R/rest-hapi-bootstrap",
+  "dependencies": {
+    "good": "^6.1.2",
+    "good-console": "^5.0.0",
+    "hapi": "^8.4.0"
+  }
+}
