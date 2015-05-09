@@ -24,6 +24,9 @@
   "dependencies": {
     "good": "^6.1.2",
     "good-console": "^5.0.0",
-    "hapi": "^8.4.0"
+    "hapi": "^8.4.0",
+    "pg": "^4.3.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^2.1.3"
   }
 }
