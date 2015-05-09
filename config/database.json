@@ -1,0 +1,14 @@
+{
+  "config": "config/database.json",
+  "migrations-path": "db/migrations",
+  "database": "vagrant",
+  "username": "vagrant",
+  "password": "secret",
+  "host": "localhost",
+  "dialect": "postgres",
+  "pool": {
+    "max": 5,
+    "min": 0,
+    "idle": 10000
+  }
+}
