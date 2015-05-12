@@ -13,3 +13,4 @@ The primary technologies used are [NodeJS](https://nodejs.org/), [HapiJS](http:/
 
 # Start The Server
 1. Start the server `node index.js` or `nodemon index.js --watch ./ -e js,json` (if you have nodemon installed)
+ - The server starts on port 4001 by default
