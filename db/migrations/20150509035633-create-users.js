@@ -3,7 +3,11 @@
 module.exports = {
   up: function (queryInterface, Sequelize) {
     return queryInterface.createTable('users', {
-      // it will add the id column automatically
+      id: {
+        type: Sequelize.INTEGER,
+        primaryKey: true,
+        autoIncrement: true
+      },
       name: Sequelize.STRING,
       createdAt: Sequelize.DATE,
       updatedAt: Sequelize.DATE
