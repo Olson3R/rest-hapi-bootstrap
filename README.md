@@ -1,5 +1,7 @@
 # rest-hapi-bootstrap
-Minimal rest api bootstrap project.
+Minimal rest api bootstrap project. It implements the index and create actions for a user model.
+
+The primary technologies used are [NodeJS](https://nodejs.org/), [HapiJS](http://hapijs.com/), and [Sequelize](http://docs.sequelizejs.com/en/latest/)
 
 # Instructions
 >If you provisioned using [vagrant-bootstrap](https://github.com/Olson3R/vagrant-bootstrap), then you can skip to **Start The Server**
